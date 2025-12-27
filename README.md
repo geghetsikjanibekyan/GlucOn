@@ -1,5 +1,5 @@
 # GlucOn
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://www.youtube.com/watch?v=lgGx-YlAaJs
 #### Description:
 A diabetes management mobile application built with React Native (Expo) and Flask backend API. GlucOn helps users track their blood sugar levels, manage food intake, monitor nutrition, and maintain a health diary. The application provides:
 
