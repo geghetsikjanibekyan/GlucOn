@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <title>Add recipe</title>
+</head>
+<body>
+    <h2>Add recipe</h2>
+
+    <form method="post" action="/admin/recipes" enctype="multipart/form-data">
+        <input name="title" placeholder="Title" required>
+        <br><br>
+
+        <textarea name="content" placeholder="Content" required></textarea>
+        <br><br>
+
+        <input type="file" name="image">
+        <br><br>
+
+        <button type="submit">Save</button>
+    </form>
+</body>
+</html>
